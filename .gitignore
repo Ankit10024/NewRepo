@@ -1,0 +1,9 @@
+*.aux
+*.log
+*.pdf
+*.tex
+*.lnk
+*.zip
+/studyMaterial/
+/latex/
+desktop.ini
